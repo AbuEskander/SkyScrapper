@@ -1,0 +1,3 @@
+C:/Users/basse/CLionProjects/SkyScrapper/cmake-build-debug/CMakeFiles/SkyScrapper.dir
+C:/Users/basse/CLionProjects/SkyScrapper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/basse/CLionProjects/SkyScrapper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
